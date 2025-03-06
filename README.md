@@ -5,9 +5,9 @@ The program is ready to be filled in. Read the titles of each command carefully 
 
 To run commands: Ctrl + Enter
 
-Steps to run FIFA WORLD CUP MANAGER:
-	1. Open the files: Part1_database.sql through Part4_game_manage.sql using Oracle program.
-	2. Press Ctrl + a then Ctrl + ENTER for each part.
+Steps to run FIFA WORLD CUP MANAGER:  
+	1. Open the files: Part1_database.sql through Part4_game_manage.sql using Oracle program.  
+	2. Press Ctrl + a then Ctrl + ENTER for each part.  
 	3. Now, open Execution.sql.
 	4. Enter your name and id (You don't need to do this if you are a new manager).
 	5. Enter the World Cup information in the 'exec game_info' section.
